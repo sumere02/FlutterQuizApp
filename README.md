@@ -1,16 +1,2 @@
-# avd_basics
+<img src = "https://github.com/sumere02/FlutterQuizApp/assets/98668083/edd21ac5-f630-489b-86b1-15d4915b9e7c" width = "250"> <img src = "https://github.com/sumere02/FlutterQuizApp/assets/98668083/e7ab79d6-1186-4cd3-bbd0-7222e93af454" width = "250"> <img src = "https://github.com/sumere02/FlutterQuizApp/assets/98668083/c64f17c1-e8c9-44d9-b734-0b6a8aa38a2d" width = "250">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
